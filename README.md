@@ -6,6 +6,8 @@
 
 [Youtube: Principal Component Analysis (PCA) by Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
+[Medium link for Notes:](https://medium.com/apprentice-journal/pca-application-in-machine-learning-4827c07a61db#:~:text=Principal%20Component%20Analysis%20(PCA)%20is,dimensionality%20reduction%20in%20machine%20learning.&text=PCA%20can%20also%20be%20used,the%20most%20amount%20of%20variance.)
+
 ### Concept:
 
 #### Assumptions:
